@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Manu (mlpz.ch)
+- 👋 Hi, I’m Manu (href://mlpz.ch)
 - 👀 I’m interested in photography, internet and things.
 - 🌱 I’m currently learning how to properly code.
 - 📫 How to reach me github(at)mlpz.ch
